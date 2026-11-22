@@ -1,0 +1,19 @@
+VOIDCARVE is installed!
+
+USING IT IN FL STUDIO
+1. Options > Manage plugins > click "Find more plugins" (or "Start scan").
+   VoidCarve appears under Effects.
+2. Put VoidCarve on the mixer insert of the sound you want to make room in
+   (e.g. your beat, pads or guitars).
+3. Select the mixer insert of the sound that should cut through
+   (e.g. vocals or kick). Right-click the small arrow at the bottom of the
+   VoidCarve track and choose "Sidechain to this track".
+4. Open VoidCarve, click the gear/cog icon (plugin wrapper settings), go to
+   the Processing tab and set the sidechain input to the track you just routed.
+5. The status light turns green ("SIDECHAIN LIVE") when it hears the sidechain.
+   Turn up AMOUNT until the vocal/kick pops out.
+
+TIPS
+- Vocals: Low Cut ~150 Hz, High Cut ~8 kHz, Attack 5-15 ms, Release 100-200 ms.
+- Kick vs bass: High Cut ~200 Hz, fast attack, release 60-120 ms.
+- If nothing happens, raise SENSE.
